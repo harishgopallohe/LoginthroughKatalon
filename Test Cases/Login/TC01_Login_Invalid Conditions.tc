@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Conditions</description>
+   <name>TC01_Login_Invalid Conditions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1afda601-be69-4eb4-8738-207d2cd116b2</testCaseGuid>
+</TestCaseEntity>

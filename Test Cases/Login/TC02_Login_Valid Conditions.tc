@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter valid username and password and login to application</description>
+   <name>TC02_Login_Valid Conditions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>806d1768-e661-4a2c-a154-970975b0be9f</testCaseGuid>
+</TestCaseEntity>
